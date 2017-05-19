@@ -2,7 +2,7 @@
 1. Login Page.html : 
    - This is a login form that uses jQuery to validate.
    
-2. DropDownList.php : 
+2. Drop Down List.php : 
    - This is a drop-down selection list which options are generated from a SQL query.
    - The configuration of config.php is: 
    
