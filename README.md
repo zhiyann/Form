@@ -1,10 +1,10 @@
 # Form
 1. Login Page.html : 
-   - This is a login form that uses jQuery to validate the fields.
+   - This is a login form that uses jQuery to validate.
    
 2. DropDownList.php : 
-   - This is a drop-down selection list which options are generated from a SQL query
-   - The configuration of config.php is 
+   - This is a drop-down selection list which options are generated from a SQL query.
+   - The configuration of config.php is: 
    
           $servername = "yourdatabaseaddress";
           $username = "yourusername";
