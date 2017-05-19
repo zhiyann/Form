@@ -1,9 +1,9 @@
 # Web Development
 1. Login Page: 
-   - Login form that uses jQuery to validate.
+   - Login page that uses jQuery to validate.
    
 2. Drop Down List: 
-   - This is a drop-down selection list which options are generated from a SQL query.
+   - Drop-down selection which options are generated from a SQL query.
    - The configuration of config.php is: 
    
           $servername = "yourdatabaseaddress";
